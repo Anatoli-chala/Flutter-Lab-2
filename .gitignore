@@ -1,0 +1,183 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+.metadata/
+*.tmp
+*.temp
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+.idea_modules/
+
+# Visual Studio Code related
+.vscode/
+*.code-workspace
+
+# Android related
+**/android/**/gradle-wrapper.jar
+**/android/.gradle
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+**/android/captures/
+**/android/.idea/navEditor.xml
+**/android/.idea/assetWizardSettings.xml
+**/android/.idea/gradle.xml
+**/android/.idea/misc.xml
+**/android/.idea/runConfigurations.xml
+**/android/.idea/vcs.xml
+**/android/.idea/workspace.xml
+**/android/*.iml
+**/android/app/*.iml
+**/android/app/src/main/debug
+**/android/app/src/main/profile
+**/android/app/src/main/assets/flutter_assets/
+
+# iOS related
+**/ios/**/*.mode1v3
+**/ios/**/*.mode2v3
+**/ios/**/*.moved-aside
+**/ios/**/*.pbxuser
+**/ios/**/*.perspectivev3
+**/ios/**/*.xcuserstate
+**/ios/**/*.xcworkspace
+**/ios/**/*.xccheckout
+**/ios/**/.idea/
+**/ios/**/*.hmap
+**/ios/**/*.hmap.*
+**/ios/**/Pods/
+**/ios/**/.symlinks/
+**/ios/**/profile
+**/ios/**/xcuserdata/
+**/ios/**/Flutter/App.framework
+**/ios/**/Flutter/Flutter.framework
+**/ios/**/Flutter/Generated.xcconfig
+**/ios/**/Flutter/ephemeral/
+**/ios/**/Flutter/flutter_export_environment.sh
+**/ios/**/ServiceDefinitions.json
+**/ios/**/Runner/GeneratedPluginRegistrant.*
+**/ios/**/.generated/
+**/ios/**/.flutter-plugins
+**/ios/**/.flutter-plugins-dependencies
+
+# Flutter/Dart specific
+**/pubspec.lock
+**/.packages
+**/.dart_tool/
+**/build/
+**/flutter_*.png
+**/coverage/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/lib/generated_plugin_registrant.dart
+
+# Web specific
+**/web/index.html
+**/web/favicon.png
+**/web/manifest.json
+**/web/icons/
+**/web/assets/
+
+# macOS
+**/macos/Flutter/GeneratedPluginRegistrant.swift
+**/macos/Flutter/ephemeral/
+**/macos/Pods/
+**/macos/Podfile.lock
+**/macos/*.xcodeproj/xcuserdata/
+**/macos/*.xcworkspace/xcuserdata/
+**/macos/Flutter/flutter_export_environment.sh
+
+# Linux
+**/linux/flutter/generated_plugin_registrant.cc
+**/linux/flutter/generated_plugin_registrant.h
+**/linux/flutter/generated_plugins.cmake
+**/linux/CMakeCache.txt
+**/linux/CMakeFiles/
+
+# Windows
+**/windows/flutter/generated_plugin_registrant.cc
+**/windows/flutter/generated_plugin_registrant.h
+**/windows/flutter/generated_plugins.cmake
+**/windows/CMakeCache.txt
+**/windows/CMakeFiles/
+**/windows/runner/Debug/
+**/windows/runner/Release/
+**/windows/runner/GeneratedPluginRegistrant.*
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Firebase
+**/google-services.json
+**/GoogleService-Info.plist
+**/firebase.json
+**/.firebaserc
+
+# Authentication files
+**/.auth/
+**/*.p12
+**/*.p8
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# parcel-bundler cache
+.cache
+.parcel-cache
+
+# Next.js build output
+.next
+
+# Nuxt.js build / generate output
+.nuxt
+dist
+
+# Gatsby files
+.cache/
+public
+
+# Storybook build outputs
+.out
+.storybook-out
+
+# vuepress build output
+.vuepress/dist
+
+# Serverless directories
+.serverless
+
+# FuseBox cache
+.fusebox/
+
+# DynamoDB Local files
+.dynamodb/
+
+# TernJS port file
+.tern-port
